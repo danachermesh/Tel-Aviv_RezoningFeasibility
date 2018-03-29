@@ -6,7 +6,11 @@ Tel-Aviv recently (January 2018) approved a new zoning plan for one of its city 
 
 ## Data Sources
 i.	[GIS website of Tel-Aviv](https://gisn.tel-aviv.gov.il/iview2js/index.aspx) 
+
 ii.	[city’s API portal](https://apiportal.tel-aviv.gov.il/) 
+
 iii. Tel-Aviv’s [precinct 3](http://mavat.moin.gov.il/MavatPS/Forms/SV4.aspx?tid=4&et=1&PL_ID=ppnCWTcsST9sCXNyHNoQFA4YXrcCUxceDk4O1Xa3nvDP/AwBOUtlpTtKqS6qvAeW1S7GYroEozyrrsmyUB8ulP1psIdjSx3vlcIC1JdQyKE=) and 4 zoning plans’ documents. 
+
 iv.	Tel Aviv open data website 
+
 v.	[Property Tax Tel-Aviv](https://www.tel-aviv.gov.il/Residents/Arnona/Documents/%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%A6%D7%95%20%D7%94%D7%90%D7%A8%D7%A0%D7%95%D7%A0%D7%94%20%D7%9C%D7%A9%D7%A0%D7%AA%202018.pdf) 
