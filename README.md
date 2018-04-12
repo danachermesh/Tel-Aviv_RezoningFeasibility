@@ -1,8 +1,10 @@
-# Tel-Aviv-city-center_zoning-evaluation
-Evaluation of two new zoning plans for Tel-Aviv city center; Markets, Design and the City class, NYU Wagner Spring 2018
+# Tel-Aviv city center Rezoning Evaluation
+### Markets, Design and the City class, NYU Wagner Spring 2018
+Evaluation of a new zoning ordinance for Tel-Aviv city center; 
+
 
 ## Research objective
-Tel-Aviv recently (January 2018) approved a new zoning plan for one of its city center precincts, precinct no.3, or “The old North” neighborhood, and is about to approve a similar rezoning for the neighbor precinct no.4 (“The new North). The purpose of this research is to evaluate these two plans in terms of their feasibility and the future densities they would have formulate if fully implemented. This research attempts to assess whether the rezoning of these two precincts, although allowing more floor area to be built, is still restricting urban development or if the market will not demand the full utilization of urban densities as suggested in the plans. 
+Tel Aviv city had recently (January 2018) approved a new zoning ordinance for one of its most desirable areas, Precinct no.3, also known as “The old North” neighborhood. Mostly built in the 1930’s, precinct 3 is one of the four precincts of Tel Aviv city center (precincts 3, 4, 5 and 6) and is known with its distinguished built environment of Bauhaus buildings and “Garden City” urban planning. The precinct also contains a meaningful part of the “White City” zone, declared a world heritage site by UNESCO at 2003. The rezoning ordinance, Plan 3616a, incorporates different historical ordinances of the area, and incentivizes developers to renew buildings by offering additional floor space. Since its first phases through approval, the new plan was publicly criticized by developers, planners and residents for being too restrictive to economically allow its utilization. This research aims to evaluate the economic feasibility of the new ordinance on the parcel level, and the future Floor-Area ratio (FAR) it would formulate across the precinct if fully utilized.
 
 ## Data Sources
 i.	[GIS website of Tel-Aviv](https://gisn.tel-aviv.gov.il/iview2js/index.aspx) 
@@ -13,4 +15,7 @@ iii. Tel-Aviv’s [precinct 3](http://mavat.moin.gov.il/MavatPS/Forms/SV4.aspx?t
 
 iv.	Tel Aviv open data website 
 
-v.	[Property Tax Tel-Aviv](https://www.tel-aviv.gov.il/Residents/Arnona/Documents/%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%A6%D7%95%20%D7%94%D7%90%D7%A8%D7%A0%D7%95%D7%A0%D7%94%20%D7%9C%D7%A9%D7%A0%D7%AA%202018.pdf) 
+## Methodology
+
+
+## Conclusions and Implications 
