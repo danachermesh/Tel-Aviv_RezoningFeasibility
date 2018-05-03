@@ -14,8 +14,8 @@ ii. [Zoning Ordinance no. 3616a documentation](http://mavat.moin.gov.il/MavatPS/
 ![Precinct3ordinance](Precinct3ordinance.png)
 
 ## Methodology
-The entire analysis and the code was used to generate it are available in an iPython notebook in this GitHub repository: 
-https://github.com/danachermesh/Tel-Aviv_RezoningFeasibility/blob/master/Tel-Aviv_RezoningEvaluation.ipynb
+_The entire analysis and the code was used to generate it are available in an iPython notebook in this GitHub repository: 
+https://github.com/danachermesh/Tel-Aviv_RezoningFeasibility/blob/master/Tel-Aviv_RezoningEvaluation.ipynb_
 
 This study assumes an equal high demand for land for all precinct 3 area, meaning a full utilization of allowed floor area in every renewal project to be built. 
 
