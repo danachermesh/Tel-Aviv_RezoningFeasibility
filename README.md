@@ -11,7 +11,7 @@ i.	[GIS website of Tel-Aviv](https://gisn.tel-aviv.gov.il/iview2js/index.aspx)
 
 ii. [Zoning Ordinance no. 3616a documentation](http://mavat.moin.gov.il/MavatPS/Forms/SV4.aspx?tid=4&et=1&PL_ID=ppnCWTcsST9sCXNyHNoQFA4YXrcCUxceDk4O1Xa3nvDP/AwBOUtlpTtKqS6qvAeW1S7GYroEozyrrsmyUB8ulP1psIdjSx3vlcIC1JdQyKE=) _(Hebrew content only)_; The guidlines of the ordinance were arranged in the following table:
 
-![alt text][https://github.com/danachermesh/Tel-Aviv_RezoningFeasibility/blob/master/Precinct3ordinance.png]
+![Precinct3ordinance][Precinct3ordinance.png]
 
 ## Methodology
 The entire analysis and the code was used to generate it are available in an iPython notebook in this GitHub repository: 
